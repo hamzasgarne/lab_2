@@ -1,0 +1,34 @@
+.prin{
+	border: solid red 1px;
+	color: #1affff;
+	width: 300px;
+}
+.re{
+text-align: center;
+	border: solid blue 1px;
+	width: 300px;
+}
+.d{
+ padding: 5px 5px 5px 5px ;
+}
+.j{
+	border: solid blue 1px;
+	width: 300px;
+text-align: left;
+font-size: 20px;
+	
+} 
+p{
+	
+	width: 200px;
+	padding: 5px 5px 5px 5px ;
+
+}
+div .btn{
+	border: solid blue 1px;
+	width: 80px;
+	float: right;
+	margin-top: -50px;
+	
+}
+
